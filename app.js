@@ -60,6 +60,6 @@ client.on("message", async message => {
   }
 })
           
-bot.on("guildMemberAdd", member => { member.user.send("Welcome")})
+client.on("guildMemberAdd", member => { member.user.send("Welcome")})
 
 client.login(config.token);
