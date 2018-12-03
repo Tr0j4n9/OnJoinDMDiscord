@@ -1,4 +1,5 @@
 { 
   "token"  : "example",
-  "prefix" : "$$$$$$$$"
+  "prefix" : "$$$$$$$$",
+  "msg" : "Message here"
 }
